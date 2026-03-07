@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- Replace the src URL below with your own banner image (recommended: 1280×320px) -->
-<img src="github_banner.png" alt="Banner" width="100%" style="border-radius:12px;" />
+<img src="assets/github_banner.png" alt="Banner" width="100%" style="border-radius:12px;" />
 
 <br/>
 
