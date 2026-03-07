@@ -90,61 +90,7 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="60%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Project One"/>
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Project Two"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Project Three"/>
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Project Four"/>
-</a>
-
-</div>
-
-> 💡 Replace `YOUR_USERNAME` and `PROJECT_ONE` etc. with your actual GitHub username and repo names.
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CONNECT WITH ME                              -->
