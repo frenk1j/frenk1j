@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- Replace the src URL below with your own banner image (recommended: 1280×320px) -->
-<img src="https://placehold.co/1280x320/0d1117/58a6ff?text=YOUR+BANNER+HERE&font=montserrat" alt="Banner" width="100%" style="border-radius:12px;" />
+<img src="github_banner.png" alt="Banner" width="100%" style="border-radius:12px;" />
 
 <br/>
 
