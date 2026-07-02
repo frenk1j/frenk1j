@@ -79,6 +79,9 @@
 
 ##  Featured Projects
 
+###  [LIGJBOT](https://github.com/frenk1j/ligjbot.git)
+An Albanian legal chatbot designed to help users understand legal information in a simpler and more accessible way.
+
 ###  [ML Fundamentals Repository](https://github.com/frenk1j/holbertonschool-machine_learning)
 Wide-ranging ML projects covering backpropagation, deep learning frameworks, and neural network architecture. Implemented core techniques including regularization, gradient-based optimizers, and end-to-end data preprocessing pipelines.
 
