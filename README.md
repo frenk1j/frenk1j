@@ -6,7 +6,7 @@
 
 # Hi there, I'm **Frenki Janaqi** 
 
-### 🤖 Junior ML Engineer &nbsp;·&nbsp;  Junior Java Developer &nbsp;·&nbsp;  Open Source Enthusiast
+###  Junior ML Engineer &nbsp;·&nbsp;  Junior Java Developer &nbsp;·&nbsp;  Open Source Enthusiast
 
 <p>
   ML Engineering student passionate about building intelligent, scalable solutions.<br/>
@@ -100,7 +100,7 @@ Real-time card detection system using YOLO for accurate recognition of playing c
 
 <br/>
 
-### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
+###  *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
